@@ -1,0 +1,22 @@
+CAMPAIGN BRIEF — CORPORATE GIFTING PUSH
+Date: June 2026 | Owner: Previous Growth Lead | Status: Wrong channel
+
+OBJECTIVE: Acquire corporate gifting clients (HR managers, office admins buying for teams).
+
+CREATIVE: "Gift Fresh. Your team deserves Nimbu Fresh." Gift boxes imagery.
+
+CHANNEL: Meta (Instagram/Facebook)
+
+BUDGET: Rs 42,000
+
+RESULTS: Irregular. A few large orders (B2B conversion model different from B2C). ROAS math doesn't apply the same way.
+
+POST-MORTEM: Corporate buyers don't browse Instagram and impulse-buy juice for 200 employees. They:
+1. Search Google for "corporate gift ideas Bangalore"
+2. Get vendor referrals from other HR managers
+3. Respond to LinkedIn outreach
+4. Call directly after visiting website
+
+Meta is the wrong channel for B2B. Should have been: Google Ads (search), LinkedIn, and a dedicated inbound landing page for corporate inquiries. The 5-6 orders that did come in (from Ops Log) were likely from people who saw the ad AND already had a gifting need — not because Meta drove them to buy.
+
+LESSON: Channel-audience fit. B2B decisions need B2B channels.

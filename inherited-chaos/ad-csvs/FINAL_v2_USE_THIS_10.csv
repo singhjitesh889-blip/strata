@@ -1,0 +1,9 @@
+Campaign,Spend (INR),Date,Impressions,Clicks,B2B Leads,Orders (Bulk),Revenue,Avg Order Value,Notes
+Corporate Gifting Push,6000,2026-06-01,25000,180,4,1,45000,45000,Pune order
+Corporate Gifting Push,6000,2026-06-02,24500,175,3,0,0,,no conversion
+Corporate Gifting Push,6000,2026-06-03,25500,182,5,1,28000,28000,Gurgaon HR dept
+Corporate Gifting Push,6000,2026-06-04,24000,170,2,0,0,,
+Corporate Gifting Push,6000,2026-06-05,26000,188,6,2,73000,36500,Mumbai + Hyderabad
+Corporate Gifting Push,6000,2026-06-06,23500,165,2,0,0,,weekend - no decision makers
+Corporate Gifting Push,6000,2026-06-07,24800,175,4,1,32000,32000,
+Note: ROAS calculation different for B2B - revenue per order much higher but volume low,,,,,,,,,,

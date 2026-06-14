@@ -1,0 +1,182 @@
+=== OPS LOG — JUNE 2026 ===
+Nimbu Fresh Operations Team | Internal use only
+Updated daily by ops team. Whoever is reading this — please actually read it.
+
+--- June 1 ---
+Morning: 47 orders dispatched from Bangalore warehouse.
+Lucknow hub ne 8 orders hold kiye, reason not given. Called Raj bhai — system down tha apparently. Retry tomorrow.
+COD orders today: 23/47 (49%). Prepaid improving slowly.
+Packaging issue flagged again: 1 complaint about bottle cap loose in transit. Keep tracking.
+
+--- June 2 ---
+3 customer complaints re: Mango bottle leaking. All three: Pune delivery via BlueDart.
+Called packaging supplier — they said "within tolerance." Not good enough. 2nd time this month.
+Delhivery missed same-day promise on 2 Mumbai orders. Customers already messaged Instagram.
+Vikas: please check FINAL inventory sheet before confirming next week's PO. Last time we were 200 units short and nobody knew.
+
+--- June 3 ---
+Big order came in: 40 bottles corporate gifting from Pune company. What rate do we give? Check with Vikram sir.
+Returns this week so far: 6 total. Reasons: 2 leakage (Mango), 1 wrong SKU sent (sent Kokum instead of Jeera Lemon), 3 "didn't like taste" (COD customers — no accountability).
+URGENT: Jeera Lemon almost out of stock. 180 units left. ETA from production: June 10. If we run any campaign on it, pause now.
+
+--- June 4 ---
+Festive traffic picking up — post-Eid + pre-summer. 61 orders today, good day.
+Customer Anjali Sharma (Order #NF-2847) has complained again — 2nd time in 2 weeks. She wants full refund. Needs escalation to Vikram sir.
+Courier tracking not updating for 12 orders placed May 31. Delhivery account manager not picking up. Trying WhatsApp.
+Reels ad seems to be performing — marketing team mentioned spike in Instagram DMs.
+
+--- June 5 ---
+Inventory audit done. Stock alerts:
+- Kokum Cooler: 120 units (LOW)
+- Aam Panna: 80 units (LOW — season ending, okay for now)
+- Mixed Fruit 1L: 50 units (CRITICAL — reorder immediately)
+- Mango: healthy stock, 850+ units
+Spoke to Shyam bhai production — can do emergency run for MF 1L by June 12 if we confirm today.
+Today COD delivery rate: 67%. Good improvement.
+
+--- June 6 ---
+Marketing ne bola weekend ke liye budget badhana hai. Rahul to confirm — but we need to check fulfillment capacity first. Current team can handle 80 orders/day max.
+5 orders cancelled before dispatch — 3 prepaid, 2 COD. Customer changed mind.
+Packing material (bubble wrap + outer cartons) running low. Order placed today with vendor. Arrives June 9.
+
+--- June 7 ---
+BIG ISSUE: 18 orders stuck at Kolkata distribution hub. Weather delay — heavy rain since yesterday.
+All 18 customers messaged. Template reply sent: "Your order is on the way, slight weather delay expected."
+Sandeep: please update tracking page message. Old Diwali message still showing somewhere on site.
+Reels ad v2 SPIKE today — marketing team very excited. Need to understand what changed in creative.
+
+--- June 8 ---
+Kolkata resolved. 16/18 delivered. 2 returned (weather damaged packaging — Delhivery claim filed).
+Reels ad v2 boosted yesterday and ROAS went 9.2x on one day. Marketing team asking why — good question. Was it the creative? The audience? The boost timing? Nobody knows. Document this somewhere please.
+Low on printed invoices — running on last 200. Order placed.
+
+--- June 9 ---
+Weekly review rough numbers (Week 1 June):
+- Orders: 312
+- Revenue approx: ₹4.2L
+- COD%: 58%
+- Returns: 14 (4.5% return rate)
+- Highlights: Mango still best. Reels ad spike on June 7 unexplained.
+- Concern: Jeera Lemon sales very slow even before stock ran low. Demand issue or awareness issue?
+
+--- June 10 ---
+Jeera Lemon restock arrived. 500 units. Quality check in progress — seal integrity test.
+4th packaging complaint this month: bottle cap came off in transit. Mango again. Same BlueDart route Pune. This is a pattern. Need meeting with packaging vendor.
+Priya di ne bola: new packaging supplier meeting June 15. Please someone attend.
+
+--- June 11 ---
+Jeera Lemon quality check: PASS. Stock released for sale.
+Reels creative that spiked on June 7 — found it. It was the "squeeze fresh" hook in first 2 seconds. Marketing team noted.
+23 orders today, slow Thursday. Normal.
+
+--- June 12 ---
+Lucknow hub issue AGAIN. 6 orders stuck. Same hub, different reason — "address verification pending."
+This is 3rd time in June with Lucknow. Need to flag to Delhivery escalation team properly, not just account manager.
+Mixed Fruit 1L emergency restock from Shyam bhai: confirmed delivery June 12. 200 units incoming.
+
+--- June 13 ---
+Mixed Fruit 1L restock arrived. 198 units (2 damaged in transit — acceptable).
+Weekend prep: 80+ orders expected. Team briefed. Extra packing staff arranged for Sunday.
+Priya di: packaging vendor meeting rescheduled to June 17.
+
+--- June 14 ---
+Saturday. 78 orders. Good. COD%: 62% (higher on weekends — expected).
+2 orders flagged as potentially fraudulent: same address, different names, COD. Held for review.
+Mango Fresh 1L almost out — 45 units. Season ending, okay. Won't restock large quantity.
+
+--- June 15 ---
+Sunday. 82 orders — best single day this month.
+Fraudulent orders from yesterday confirmed — cancelled. Both were COD, saved ₹6,800.
+Customer Priya M. (Order #NF-3102): wants to know if we do subscriptions. 4th person asking this week. Flag to Vikram sir — recurring order demand might be real.
+
+--- June 16 ---
+Week 2 review:
+- Orders: 387 (up from 312 last week — 24% jump)
+- Revenue: ~₹5.2L
+- Best day: June 15 (82 orders)
+- Returns: 9 (2.3% — improving)
+- Mango 1L: phasing out as planned
+- Issue: Lucknow hub recurring (flagged to Delhivery escalation)
+- Packaging complaint count: Month total now 6. Too many.
+
+--- June 17 ---
+Packaging vendor meeting done. They acknowledged seal issue on 300ml Mango caps. Offered replacement batch — we need to decide if we accept. Vikram sir call needed.
+New courier option evaluated: Xpressbees for metro areas. Quote received, 8% cheaper than Delhivery for Mumbai/Delhi/Bangalore. Will send comparison to Vikram sir.
+
+--- June 18 ---
+7th packaging complaint. Mango 300ml. Delhi this time, not Pune. Pattern is nationwide now, not route-specific.
+Accepted packaging vendor's replacement batch offer — 5,000 caps arriving June 22. Old caps being quarantined.
+Delhivery escalation team responded on Lucknow: "hub being upgraded, should resolve by June 25."
+
+--- June 19 ---
+Lucknow issue again. 9 orders delayed. Told Delhivery they need to resolve by June 21 or we escalate to zonal head.
+Subscription inquiry count this month: 11 customers. This is real demand signal. Please tell someone.
+
+--- June 20 ---
+Quiet day. 34 orders. Summer peak may be ending for Mango — expected.
+Kokum Cooler getting some organic mentions on Reddit apparently — marketing team saw it. Good unexpected signal.
+Aam Panna 1L: completely out of stock, 0 units. Seasonal, okay.
+
+--- June 21 ---
+Lucknow resolved. Delhivery upgraded hub. Test shipments going through clean.
+New packaging caps arrived early — June 22 batch came today. Quality check on June 22.
+
+--- June 22 ---
+New Mango caps quality check: PASS. Rolling out to production line.
+Old caps quarantined — 1,200 bottles affected caps identified and held back.
+No new packaging complaints since June 18. Fingers crossed.
+
+--- June 23 ---
+48 orders today. Decent.
+Marketing team: Independence Day campaign planning starting. Based on August 15 last year performance, this is worth planning early. (Someone actually documented last year's ID campaign — it worked. Campaign-9 brief in old-campaigns folder.)
+
+--- June 24 ---
+Week 3 review:
+- Orders: 290 (lower — expected, summer Mango peak ending)
+- Revenue: ~₹3.9L
+- Returns: 6 (2.1%)
+- Packaging complaints this month: 6 total (5 Mango, 1 Jeera Lemon). New caps should fix this.
+- Lucknow resolved finally
+- Subscription demand: 11 customers asking, no product yet
+
+--- June 25 ---
+Month closing preparations starting.
+Kokum Cooler stock: 78 units left. Should we reorder? Sales slow but margins good. Niche product, don't over-order.
+Review of June so far: we've been reactive all month. Ops problems coming at us instead of us catching them early. The log has been running but nobody has been reading it systematically. That needs to change.
+
+--- June 26 ---
+Friday. 55 orders. Weekend starting.
+Customer feedback theme this month: multiple customers asking about subscription, about more flavors, about corporate gifting pricing. Nobody has a single place tracking these signals.
+Reels creative "squeeze fresh" hook — still performing well. Marketing team has been using it on 3 new creatives.
+
+--- June 27 ---
+Saturday. 71 orders.
+Kokum Cooler: 2 unsolicited reviews on Google Maps mentioning it. Both positive. Niche but loyal audience.
+
+--- June 28 ---
+Sunday. 68 orders.
+Month-end pattern: pre-July prepaid orders increasing (people preparing for monsoon season). Coconut-based drinks might be worth considering for August.
+
+--- June 29 ---
+48 orders. Quiet Monday.
+Packaging vendor sent invoice for replacement caps. ₹18,000. Deducting from their next billing cycle.
+Delhivery: no complaints for 8 days straight. Improvement noted.
+
+--- June 30 — MONTH END ---
+June final numbers (rough, pending accounts):
+- Total orders: ~1,950
+- Revenue ex-GST approx: ₹26L
+- COD%: 59% average
+- Return rate: 3.1% (improved from last month 4.8%)
+- Packaging complaints: 8 total (mostly resolved with cap replacement)
+- Lucknow issue: 3 incidents, resolved
+- Subscription demand: 14 customers asked this month. Not a product yet. Should be.
+
+Highlights: Reels ad spike June 7 (9.2x ROAS, "squeeze fresh" hook), Independence Day planning begun.
+Low points: Packaging complaints, Lucknow hub, nobody reading this log.
+
+Mango season basically over. Kokum and Monsoon/Coconut products are next opportunity.
+Packaging problem: technically resolved with new caps. Monitoring in July.
+
+If you're the new Growth Lead reading this: June was messy. The data exists. Nobody synthesized it. That's your job now.
+— Ops Team

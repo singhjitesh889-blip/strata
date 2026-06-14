@@ -1,0 +1,16 @@
+CAMPAIGN BRIEF — MONSOON DETOX
+Date: May 2026 | Owner: Previous Growth Lead | Status: Weak performance
+
+OBJECTIVE: Capitalize on monsoon season sentiment with "detox" positioning.
+
+HYPOTHESIS: People want to detox after summer indulgences once monsoon hits. Juice = detox.
+
+CREATIVE: "Monsoon reset. Your body deserves it." Rainy aesthetic.
+
+BUDGET: Rs 38,000
+
+RESULTS: 3.2x ROAS. Weak.
+
+POST-MORTEM: Nobody asked monsoon-season buyers what they actually wanted. Assumption was wrong. Monsoon in India = chai season, warm drinks, pakoras. Cold juice is not a primary monsoon desire. The "detox" framing was an export from US/UK wellness marketing that doesn't map to Indian monsoon context. Should have done 10 customer interviews before spending Rs 38,000.
+
+LESSON: Test demand before spending budget. Ask people what they want in that season, don't project it.

@@ -1,0 +1,18 @@
+CAMPAIGN BRIEF — COMPETITOR COMPARISON
+Date: June 2026 | Owner: Previous Growth Lead | Status: Paused — Legal Issue
+
+OBJECTIVE: Direct comparison vs Raw Pressery on price and freshness.
+
+CREATIVE: Side-by-side: NF vs RP. "Same freshness. Half the price." Price comparison table in creative.
+
+BUDGET: Rs 50,000 (planned)
+
+ACTUAL SPEND: Rs 15,000 (paused after 3 days)
+
+RESULTS (3 days): 6.4x ROAS. Actually performing well when it was live.
+
+LEGAL FLAG: Direct comparative advertising in India requires the comparison to be accurate, fair, and not disparaging. Our creative claimed "same freshness" — we have no verified third-party freshness comparison data to back this claim. Legal said pause immediately.
+
+POST-MORTEM: Comparative advertising can work but requires legal clearance and verified claims. Can continue with messaging like "our standard" (self-referential) without comparing to named competitors.
+
+LESSON: Never name a competitor in a creative without legal sign-off and data to back every claim.

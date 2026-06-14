@@ -1,0 +1,24 @@
+Period,Invoice No,Customer Type,Taxable Amount (Rs),GST Rate,GST Amount (Rs),Total (Rs),State Code,State,Category,Notes
+Apr 2026,NF-INV-001,B2C,2850,5%,142.50,2992.50,09,UP,Food & Bev,
+Apr 2026,NF-INV-002,B2C,1900,5%,95.00,1995.00,27,MH,Food & Bev,
+Apr 2026,NF-INV-003,B2C,3200,12%,384.00,3584.00,07,DL,Packaged Food,CHECK WITH CA - which rate applies here??
+Apr 2026,NF-INV-004,B2C,1500,5%,75.00,1575.00,29,KA,Food & Bev,
+Apr 2026,NF-INV-005,B2B,45000,12%,5400.00,50400.00,27,MH,Corporate,Pune gifting order - verify B2B rate
+Apr 2026,,B2C,2100,5%,105.00,2205.00,33,TN,,invoice number missing - ask Accounts
+Apr 2026,NF-INV-006,B2C,1800,5%,90.00,1890.00,09,UP,Food & Bev,
+Apr 2026,NF-INV-007,B2C,2400,5%,120.00,2520.00,06,HR,Food & Bev,
+Apr 2026,NF-INV-008,B2C,1650,5%,82.50,1732.50,19,WB,Food & Bev,
+Apr 2026,NF-INV-009,B2C,3100,5%,155.00,3255.00,23,MP,Food & Bev,
+May 2026,NF-INV-089,B2C,1800,5%,90.00,1890.00,09,UP,Food & Bev,
+May 2026,NF-INV-090,B2C,2400,5%,120.00,2520.00,08,RJ,Food & Bev,
+May 2026,NF-INV-091,B2C,1650,5%,82.50,1732.50,24,GJ,Food & Bev,WRONG - should this be 12%? idk check
+May 2026,NF-INV-092,B2C,3100,5%,155.00,3255.00,23,MP,Food & Bev,
+May 2026,NF-INV-092,B2C,3100,5%,155.00,3255.00,23,MP,Food & Bev,DUPLICATE? same invoice number - verify
+May 2026,NF-INV-093,B2B,28000,12%,3360.00,31360.00,06,HR,Corporate,Gurgaon bulk order
+May 2026,NF-INV-094,B2C,950,5%,47.50,997.50,29,KA,Food & Bev,small order
+May 2026,NF-INV-095,B2C,4200,5%,210.00,4410.00,07,DL,Food & Bev,
+Jun 2026,NF-INV-147,B2C,2200,5%,110.00,2310.00,27,MH,Food & Bev,
+Jun 2026,NF-INV-148,B2C,1950,5%,97.50,2047.50,07,DL,Food & Bev,
+Jun 2026,NF-INV-149,B2C,3300,5%,165.00,3465.00,29,KA,Food & Bev,
+Jun 2026,NF-INV-150,B2B,73000,12%,8760.00,81760.00,27,MH,Corporate,June 5 Mumbai + Hyderabad bulk
+TOTALS (UNVERIFIED),,,~Rs 4 82 000 approx,,,~Rs 28 400 approx,,,NOT VERIFIED - CA review pending since March,need to reconcile with accounts before filing

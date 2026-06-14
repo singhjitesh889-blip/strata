@@ -1,0 +1,19 @@
+CAMPAIGN BRIEF — JEERA LEMON RELAUNCH
+Date: April 2026 | Owner: Previous Growth Lead | Status: Failed
+
+OBJECTIVE: Relaunch Jeera Lemon after quality complaints in March 2026 (cap seal issue causing leakage in some batches).
+
+CREATIVE: "Fixed. Fresher than ever. Jeera Lemon is back."
+
+BUDGET: Rs 52,000
+
+RESULTS: 3.8x ROAS. Well below target.
+
+PROBLEM: The product had not been fully fixed when we relaunched. Quality issue was patched but not solved. Customers who got bad batches in March were still in the market. Word of mouth worked against us. Two negative reviews on Zomato during campaign period.
+
+POST-MORTEM: Classic mistake — marketing before the product problem is truly solved. Should have:
+1. Fixed the cap issue completely (happened June 22, 2.5 months later)
+2. Done a small refund/replacement campaign for March affected customers
+3. THEN relaunched with "we fixed it" campaign
+
+LESSON: Don't run acquisition campaigns during a product quality recovery. Fix first, then acquire.

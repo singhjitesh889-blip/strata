@@ -1,0 +1,110 @@
+{
+  "course": {
+    "name": "STRATA",
+    "tagline": "The first Claude Code course built for Indian knowledge workers",
+    "version": "1.0.0",
+    "author": "Jitesh Kumar Singh",
+    "github": "https://github.com/singhjitesh889-blip/strata",
+    "portfolio": "https://singhjitesh889-blip.vercel.app"
+  },
+  "grades": {
+    "G1": {
+      "name": "Seedhi Baat",
+      "description": "Never used terminal. Excel + ChatGPT only. All steps explained.",
+      "start": "/start-0"
+    },
+    "G3": {
+      "name": "Boss Level",
+      "description": "Already uses Claude or VS Code. Watch for [G3: skip to ___] markers.",
+      "start": "/start-0"
+    }
+  },
+  "modules": [
+    {
+      "id": "0",
+      "name": "Grade Select",
+      "duration": "5 min",
+      "lessons": [
+        { "id": "0", "name": "Who Are You?", "path": "lesson-modules/0-grade-select/CLAUDE.md", "command": "/start-0" }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Kaam Shuru Karo",
+      "duration": "~3.5 hours",
+      "description": "Get daily wins before infrastructure. Pain of re-explaining context must be felt before M2.",
+      "lessons": [
+        { "id": "1.1", "name": "Terminal Open. Everyone Else Is Still Copy-Pasting.", "path": "lesson-modules/1.1-intro/CLAUDE.md", "command": "/start-1-1" },
+        { "id": "1.2", "name": "Meet the Mess", "path": "lesson-modules/1.2-meet-the-mess/CLAUDE.md", "command": "/start-1-2" },
+        { "id": "1.3", "name": "Cleaning Without Excel Formulas", "path": "lesson-modules/1.3-cleaning/CLAUDE.md", "command": "/start-1-3" },
+        { "id": "1.4", "name": "Skills: Your First Slash Command", "path": "lesson-modules/1.4-skills-commands/CLAUDE.md", "command": "/start-1-4" },
+        { "id": "1.5", "name": "It's Okay to Prompt in Hinglish", "path": "lesson-modules/1.5-hinglish-prompting/CLAUDE.md", "command": "/start-1-5" },
+        { "id": "1.6", "name": "11 Campaigns, One Monday Morning", "path": "lesson-modules/1.6-agents/CLAUDE.md", "command": "/start-1-6" },
+        { "id": "1.7", "name": "What the Ops Log Actually Says", "path": "lesson-modules/1.7-ops-log/CLAUDE.md", "command": "/start-1-7" },
+        { "id": "1.8", "name": "When It Breaks (Jugaad Debugging)", "path": "lesson-modules/1.8-jugaad-debugging/CLAUDE.md", "command": "/start-1-8" },
+        { "id": "1.9", "name": "The 9 PM Founder Update", "path": "lesson-modules/1.9-founder-update/CLAUDE.md", "command": "/start-1-9" }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dimaag Banao",
+      "duration": "~2 hours",
+      "description": "claude-code-knowledge-architecture. Student felt context re-explanation pain in M1 — now they want this.",
+      "repo": "https://github.com/singhjitesh889-blip/claude-code-knowledge-architecture",
+      "lessons": [
+        { "id": "2.1", "name": "RAW → WIKI → STATE", "path": "lesson-modules/2.1-three-layers/CLAUDE.md", "command": "/start-2-1" },
+        { "id": "2.2", "name": "Write Your STATE Layer", "path": "lesson-modules/2.2-state-layer/CLAUDE.md", "command": "/start-2-2" },
+        { "id": "2.3", "name": "One File, One Question", "path": "lesson-modules/2.3-wiki/CLAUDE.md", "command": "/start-2-3" },
+        { "id": "2.4", "name": "The Compile Loop", "path": "lesson-modules/2.4-compile-loop/CLAUDE.md", "command": "/start-2-4" },
+        { "id": "2.5", "name": "Write Rules, Not Corrections", "path": "lesson-modules/2.5-write-rules/CLAUDE.md", "command": "/start-2-5" }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Khud Chale",
+      "duration": "~2 hours",
+      "description": "claude-code-hooks-kit (7 verified hooks). Git safety first — can't auto-commit without understanding undo.",
+      "repo": "https://github.com/singhjitesh889-blip/claude-code-hooks-kit",
+      "lessons": [
+        { "id": "3.1", "name": "Git: The Undo Button", "path": "lesson-modules/3.1-git-undo/CLAUDE.md", "command": "/start-3-1" },
+        { "id": "3.2", "name": "Fault Lines", "path": "lesson-modules/3.2-fault-lines/CLAUDE.md", "command": "/start-3-2" },
+        { "id": "3.3", "name": "You Left, It Worked", "path": "lesson-modules/3.3-machine-wakes-up/CLAUDE.md", "command": "/start-3-3" },
+        { "id": "3.4", "name": "Customize Routing", "path": "lesson-modules/3.4-routing/CLAUDE.md", "command": "/start-3-4" },
+        { "id": "3.5", "name": "Never Lose Work", "path": "lesson-modules/3.5-auto-commit/CLAUDE.md", "command": "/start-3-5" }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Asli Taakat",
+      "duration": "~5 hours",
+      "description": "MCP + Subagents + Orchestrator + Agentic Looping. Hardest module — dedicated MCP setup lesson.",
+      "repos": [
+        "https://github.com/singhjitesh889-blip/mcp-commerce-starter",
+        "https://github.com/singhjitesh889-blip/mcp-seo-starter"
+      ],
+      "lessons": [
+        { "id": "4.1", "name": "MCP Setup — The Hard Part First", "path": "lesson-modules/4.1-mcp-setup/CLAUDE.md", "command": "/start-4-1" },
+        { "id": "4.2", "name": "Wire It and Ask in Hinglish", "path": "lesson-modules/4.2-wire-and-ask/CLAUDE.md", "command": "/start-4-2" },
+        { "id": "4.3", "name": "Subagents — Your Specialist Team", "path": "lesson-modules/4.3-subagents/CLAUDE.md", "command": "/start-4-3" },
+        { "id": "4.4", "name": "The Orchestrator Pattern", "path": "lesson-modules/4.4-orchestrator/CLAUDE.md", "command": "/start-4-4" },
+        { "id": "4.5", "name": "Agentic Loops — The Machine That Reruns", "path": "lesson-modules/4.5-agentic-loops/CLAUDE.md", "command": "/start-4-5" },
+        { "id": "4.6", "name": "Verification + Eval Gate", "path": "lesson-modules/4.6-verification/CLAUDE.md", "command": "/start-4-6" },
+        { "id": "4.7", "name": "Check From Anywhere", "path": "lesson-modules/4.7-mobile-output/CLAUDE.md", "command": "/start-4-7" },
+        { "id": "4.8", "name": "CAPSTONE: The Fleet-Built Founder Update", "path": "lesson-modules/4.8-capstone/CLAUDE.md", "command": "/start-4-8" }
+      ]
+    }
+  ],
+  "scenario": {
+    "company": "Nimbu Fresh",
+    "sector": "D2C beverages (fictional)",
+    "role": "New Growth Lead — previous person quit Friday",
+    "inherited_chaos": [
+      "11 ad CSVs named FINAL_v2_USE_THIS_[n].csv",
+      "ops-log-june.txt — 200 lines Hinglish ops chaos",
+      "gst-liability-q1.csv — unopened since February",
+      "9 old campaign briefs",
+      "5 competitor research files"
+    ],
+    "goal": "One clean founder update by 10am Monday"
+  }
+}

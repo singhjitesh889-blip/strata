@@ -1,0 +1,6 @@
+campaign_name,spend_inr,date,impressions,clicks,purchases,revenue,roas,legal_flag
+Competitor Comparison - NF vs RP,5000,2026-06-01,55000,1100,38,32000,6.40,YES - flagged
+Competitor Comparison - NF vs RP,5200,2026-06-02,57000,1140,40,33500,6.44,YES - flagged
+Competitor Comparison - NF vs RP,4800,2026-06-03,52000,1040,35,29400,6.13,PAUSED mid-day
+,,2026-06-04,,,,,CAMPAIGN PAUSED - legal review,
+,,2026-06-05,,,,,CAMPAIGN PAUSED,
