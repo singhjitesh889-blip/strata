@@ -28,10 +28,10 @@ Vikram won't fact-check your founder update before his 10am call. Your skeptical
 
 | # | Lesson | What you do |
 |---|--------|-------------|
-| 4.6 | [Verification + Eval Gate](./4.6-verification/CLAUDE.md) | Boris's full 5-step loop — including FAIL → retry |
-| 4.7 | [Check From Anywhere](./4.7-mobile-output/CLAUDE.md) | Output → Telegram → check on your phone |
-| 4.8 | [CAPSTONE: Fleet-Built Founder Update](./4.8-capstone/CLAUDE.md) | Full fleet, live, during this lesson |
+| 6.1 | [Verification + Eval Gate](./6.1-verification/CLAUDE.md) | Boris's full 5-step loop — including FAIL → retry |
+| 6.2 | [Check From Anywhere](./6.2-mobile-output/CLAUDE.md) | Output → Telegram → check on your phone |
+| 6.3 | [CAPSTONE: Fleet-Built Founder Update](./6.3-capstone/CLAUDE.md) | Full fleet, live, during this lesson |
 
 ---
 
-**Start:** `/start-4-6`
+**Start:** `/start-6-1`

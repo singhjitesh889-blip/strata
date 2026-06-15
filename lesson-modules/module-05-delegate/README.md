@@ -19,7 +19,7 @@ This module teaches three patterns for delegating work to Claude:
 
 These are patterns you build — not named Claude Code features you install.
 
-The orchestrator is a prompt structure. The agentic loop is a goal + verification + retry instruction. Lesson 4.4 and 4.5 are explicit about this because the alternative (thinking it's a setting you toggle) leads to confusion and cost.
+The orchestrator is a prompt structure. The agentic loop is a goal + verification + retry instruction. Lessons 5.2 and 5.3 are explicit about this because the alternative (thinking it's a setting you toggle) leads to confusion and cost.
 
 ---
 
@@ -27,10 +27,10 @@ The orchestrator is a prompt structure. The agentic loop is a goal + verificatio
 
 | # | Lesson | What you do |
 |---|--------|-------------|
-| 4.3 | [Subagents — Your Specialist Team](./4.3-subagents/CLAUDE.md) | skeptical-cfo, growth-lead, ops-manager |
-| 4.4 | [The Orchestrator Pattern](./4.4-orchestrator/CLAUDE.md) | One goal → fleet of specialists |
-| 4.5 | [Agentic Loops](./4.5-agentic-loops/CLAUDE.md) | Closed loop: goal → check → fix → repeat |
+| 5.1 | [Subagents — Your Specialist Team](./5.1-subagents/CLAUDE.md) | skeptical-cfo, growth-lead, ops-manager |
+| 5.2 | [The Orchestrator Pattern](./5.2-orchestrator/CLAUDE.md) | One goal → fleet of specialists |
+| 5.3 | [Agentic Loops](./5.3-agentic-loops/CLAUDE.md) | Closed loop: goal → check → fix → repeat |
 
 ---
 
-**Start:** `/start-4-3`
+**Start:** `/start-5-1`
